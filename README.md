@@ -13,5 +13,5 @@ with `npx eslint --init`.
 #### nanoid
 The `npm install nanoid@3.x.x` command installs the nanoid module.
 
-###### This is a repository of submission results in the class Learning to Build Back-End Applications for Beginners with Google Cloud.
+###### <a href='https://www.dicoding.com/academies/342'> This is a repository of submission results in the class Learning to Build Back-End Applications for Beginners with Google Cloud.</a>
 
